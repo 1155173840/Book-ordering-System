@@ -1,0 +1,34 @@
+1. System interface.
+
+	1. Create Table.         ok
+	2. Delete Table.         ok
+	3. Insert Data.          ok
+	4. Set System Date.      some problems
+	5. Back to main menu.    ok
+
+
+2. Customer interface.
+
+  1. Book Search.
+  (No more space when inputting the strings)
+    1 ISBN.              ok
+    2 Book Title.        ok
+    3 Author Name        ok
+    4 Exit               ok
+  
+  2. Order Creation.     some problems        
+  3. Order Altering.     not tested
+  4. Order Query.        not tested
+  5. Back to main menu.  ok
+
+
+
+3. Bookstore interface.
+  1. Order Update.               not tested
+  2. Order Query.                not tested
+  3. N most Popular Book Query.  some problems 
+  4. Back to main menu.          ok
+
+
+4. Show System Date.     ok
+5. Quit the system...... ok
